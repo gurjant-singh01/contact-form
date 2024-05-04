@@ -13,6 +13,7 @@ function App() {
           backgroundColor: "#D3DFE8",
         }}
       >
+        {/* contact form */}
         <Contact />
       </div>
       <Footer />
